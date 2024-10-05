@@ -1,4 +1,4 @@
-package lec9_Inheritance_2.src;
+package Lec9_Inheritance_2.src;
 
 /**
  * Demonstrate higher order functions in Java

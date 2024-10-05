@@ -1,4 +1,4 @@
-package lec12_inheritance_4.DIY;
+package Lec12_inheritance_4.DIY;
 
 public class ArraySet<T> {
 

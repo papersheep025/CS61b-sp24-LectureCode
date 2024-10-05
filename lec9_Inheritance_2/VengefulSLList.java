@@ -1,4 +1,4 @@
-package lec9_Inheritance_2;
+package Lec9_Inheritance_2;
 
 /** SList with additional operation printLostItems() which prints all items
   * that have ever been deleted. */

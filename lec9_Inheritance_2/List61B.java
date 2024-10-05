@@ -1,4 +1,4 @@
-package lec9_Inheritance_2;
+package Lec9_Inheritance_2;
 
 public interface List61B<Item> {
     /**

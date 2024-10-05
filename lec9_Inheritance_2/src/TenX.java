@@ -1,4 +1,4 @@
-package lec9_Inheritance_2.src;
+package Lec9_Inheritance_2.src;
 
 public class TenX implements IntUnaryFunction {
 

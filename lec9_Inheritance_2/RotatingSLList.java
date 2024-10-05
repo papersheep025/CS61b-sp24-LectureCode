@@ -1,4 +1,4 @@
-package lec9_Inheritance_2;
+package Lec9_Inheritance_2;
 
 /* SLList, but with additional rotateRight operation. */
 public class RotatingSLList<Item> extends SLList<Item> {

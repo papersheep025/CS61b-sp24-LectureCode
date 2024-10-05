@@ -1,4 +1,4 @@
-package lec9_Inheritance_2;
+package Lec9_Inheritance_2;
 
 /**
  * Created by hug on 2/6/2017.

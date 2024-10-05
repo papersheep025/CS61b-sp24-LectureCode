@@ -1,4 +1,4 @@
-package lec9_Inheritance_2;
+package Lec9_Inheritance_2;
 
 /* Represent a list of stuff, where all the "list" work is delegated
  * to a naked recursive data structure. */

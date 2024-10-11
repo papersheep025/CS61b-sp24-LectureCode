@@ -26,6 +26,6 @@ public class DataIndexedIntegerSet {
     }
 
     public static void main(String[] args) {
-        System.out.println("a".hashCode());
+        System.out.println("瓶子君152".hashCode());
     }
 }

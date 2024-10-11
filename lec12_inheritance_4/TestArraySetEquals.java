@@ -1,4 +1,4 @@
-package Lec12_inheritance_4;
+package Lec12_Inheritance_4;
 
 import org.junit.jupiter.api.Test;
 

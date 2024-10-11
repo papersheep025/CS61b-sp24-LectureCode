@@ -1,4 +1,4 @@
-package Lec11_inheritance_3;
+package Lec11_Inheritance_3;
 
 public class Dog implements Comparable<Dog> {
     public String name;

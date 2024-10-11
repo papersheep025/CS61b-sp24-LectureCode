@@ -1,4 +1,4 @@
-package Lec11_inheritance_3;
+package Lec11_Inheritance_3;
 
 /**
  * Created by jug on 2/7/18.
